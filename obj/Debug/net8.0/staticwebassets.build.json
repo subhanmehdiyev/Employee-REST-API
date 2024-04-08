@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ATMzhyDRdjCKubfz3igse5qO4Kl34OJgyWBlxwrxoFM=",
+  "Source": "EmployeeRestAPI",
+  "BasePath": "_content/EmployeeRestAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
