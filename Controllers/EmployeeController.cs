@@ -14,7 +14,7 @@ namespace EmployeeRestAPI.Controllers
         private readonly IUnitOfWork _unitOfWork;
         private readonly IMapper _mapper;
 
-        public EmployeeController(IUnitOfWork unitOfWork, IMapper mapper)
+        public EmployeeController(IUnitOfWork unitOfWork, IMapper mapper, ILogger<EmployeeController> logger)
         {
             _unitOfWork = unitOfWork;
             _mapper = mapper;
